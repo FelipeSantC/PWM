@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Pwm.uf2'
+elf = 'build/Pwm.elf'
