@@ -127,3 +127,6 @@ No `main()`, o código executa os seguintes passos:
 - **Precisão**: A precisão do controle depende diretamente da configuração de `sleep_us()` e dos incrementos no duty cycle.
   
 Este projeto é útil para aplicações que necessitam de um controle preciso de servomotores, como em robótica, sistemas de controle de câmera ou mecanismos automatizados.
+
+### LINK VIDEO
+https://drive.google.com/drive/folders/1zW385g_r1VAB1SYXt2AN16HbYk7uKEbe?usp=drive_link
